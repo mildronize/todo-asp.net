@@ -6,7 +6,7 @@
 
 - React (TypeScript)
 - Redux (Redux Toolkit)
-- Styled Component
+- Styled Component (Light / Dark)
 - Storybook
 - React Router 
 - SWR
